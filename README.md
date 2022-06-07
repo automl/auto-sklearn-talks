@@ -1,5 +1,5 @@
 # Talks on Auto-sklearn
-Presentations on Auto-sklearn
+Presentations on [Auto-sklearn](https://github.com/automl/auto-sklearn)
 
 ## Educational
 
