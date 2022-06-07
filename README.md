@@ -7,10 +7,12 @@ Presentations on Auto-sklearn
 
 * [Video](https://www.youtube.com/watch?v=ugN8U--oUaU)
 * [Notebooks](https://github.com/automl/auto-sklearn-talks/tree/main/2021_07_28_EuroPython)
+* [Slides](https://github.com/automl/auto-sklearn-talks/tree/main/2021_07_28_EuroPython/2021_EuroPythonTalk.pdf)
 
 ### AutoML Fall School 2021
 
-* [Notebooks](https://github.com/automl/auto-sklearn-talks/tree/main/2021_11_10_AutoMLFallSchool)
+* [Slides](https://github.com/automl/auto-sklearn-talks/tree/main/2021_11_10_AutoMLFallSchool)
+* Notebooks - not yet online
 
 ## Scientific
 
