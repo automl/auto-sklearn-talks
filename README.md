@@ -14,6 +14,11 @@ Presentations on [Auto-sklearn](https://github.com/automl/auto-sklearn)
 * [Slides](https://github.com/automl/auto-sklearn-talks/tree/main/2021_11_10_AutoMLFallSchool)
 * Notebooks - not yet online
 
+### AutoML Fall School 2021
+
+* [Slides](https://github.com/automl/auto-sklearn-talks/tree/main/2022_10_10_AutoMLFallSchool)
+* [Notebooks](https://colab.research.google.com/drive/1RFP_WnIy0ZAwqj064BgetBum9RWNPo6B)
+
 ## Scientific
 
 ### AutoML workshop 2021
