@@ -26,8 +26,8 @@ Presentations on [Auto-sklearn](https://github.com/automl/auto-sklearn)
 ### [Next Gen AI Workshop: Episode 3](https://github.com/automl/auto-sklearn-talks/blob/main/2023_06_06_NextGenAI_Workshop/)
 
 * [Event](https://freiburg-ai.github.io/)
-* Slides
-* Notebook
+* [Slides](https://github.com/automl/auto-sklearn-talks/blob/main/2023_06_06_NextGenAI_Workshop/2023_AutoML_with_Auto-sklearn.pdf)
+* [Notebook](https://github.com/automl/auto-sklearn-talks/blob/main/2023_06_06_NextGenAI_Workshop/NextGenAI_Workshop_2023_ASKL_Handson.ipynb)
 * [CoLab](https://colab.research.google.com/drive/196JfdByjbTe99ZZwM_ASB03FbUK8SkTH?usp=sharing)
 
 ## Scientific
